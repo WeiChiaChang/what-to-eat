@@ -6,7 +6,7 @@
 研究了一下 Mac 自帶的 `osascript` 和 `shell script`，並搭配簡單的 `crontab` 每日定時推播。
 
 
-## Installing / Getting started
+## 🎉 Installing / Getting started
 
 A quick introduction of how to use, first of all:
 
@@ -38,11 +38,11 @@ Then input:
 
 Everything all done now, enjoy your lunch! ![turtle](http://i.imgur.com/879dfXS.gif)
 
-## Configuration
+## 🔧 Configuration
 
 Lunch lists can be customized on `src/testLunch.json` this file.
 
-## License
+## ©️ License
 
 [![CC 4.0][license-image]][license-url]
 
