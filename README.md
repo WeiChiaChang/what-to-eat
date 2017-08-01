@@ -1,9 +1,9 @@
 # what-to-eat
-> A useful tool that helps you deciding what to eat for lunch
+> A useful tool that helps you deciding what to eat for lunch.
 
 回台南工作打滾也半年多了，每天最煩惱的倒不是 deadline，而是不知道要吃什麼午餐。
 
-研究了一下 Mac 自帶的 osascript 和 shell script，並搭配簡單的 crontab 每日定時推播。
+研究了一下 Mac 自帶的 `osascript` 和 `shell script`，並搭配簡單的 `crontab` 每日定時推播。
 
 
 ## Installing / Getting started
@@ -14,7 +14,7 @@ A quick introduction of how to use, first of all:
 git clone https://github.com/WeiChiaChang/what-to-eat.git
 ```
 
-> Recommend installing on desktop directly, or you may have some tiny changes to make in show.sh file.
+> Recommend installing on desktop directly, or you may have some tiny changes to make from `show.sh` file.
 
 Add some crontab setting on your Mac:
 
@@ -36,4 +36,8 @@ Then input:
 
 > [crontab-guru](https://crontab.guru/#20_12_*_*_1-7) will do a favor for you ✨.
 
-Everything all done now! ![turtle](http://i.imgur.com/879dfXS.gif)
+Everything all done now, enjoy your lunch! ![turtle](http://i.imgur.com/879dfXS.gif)
+
+## Configuration
+
+Lunch lists can be customized on `src/testLunch.json` this file.
