@@ -1,4 +1,4 @@
-# what-to-eat
+# 🍴 what-to-eat
 > A useful tool that helps you deciding what to eat for lunch.
 
 回台南工作打滾也半年多了，每天最煩惱的倒不是 deadline，而是不知道要吃什麼午餐。
