@@ -24,7 +24,7 @@ crontab -e
 
 You will enter a terminal with empty wording, is time to get your hands dirty with vim syntax:
 
-> Press <kbd>Esc</kbd> then <kbd>i</kbd> first
+> First, press <kbd>Esc</kbd> then <kbd>i</kbd>.
 
 Then input:
 
@@ -32,7 +32,7 @@ Then input:
 20 12 * * 1-7  ~/Desktop/what-to-eat/show.sh
 ```
 
-> It means this script will be automatically executed "at 12:20 on every day-of-week from Monday through Sunday".
+> This script will be automatically executed **at 12:20 on every day-of-week from Monday through Sunday**.
 
 > [crontab-guru](https://crontab.guru/#20_12_*_*_1-7) will do a favor for you ✨.
 
