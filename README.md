@@ -41,3 +41,12 @@ Everything all done now, enjoy your lunch! ![turtle](http://i.imgur.com/879dfXS.
 ## Configuration
 
 Lunch lists can be customized on `src/testLunch.json` this file.
+
+## License
+
+[![CC 4.0][license-image]][license-url]
+
+&copy; [WeiChiaChang](https://github.com/WeiChiaChang)
+
+[license-url]: http://www.wtfpl.net
+[license-image]: https://img.shields.io/badge/License-WTFPL%202.0-lightgrey.svg?style=flat-square
