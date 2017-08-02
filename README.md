@@ -36,6 +36,8 @@ Then input:
 
 > [crontab-guru](https://crontab.guru/#20_12_*_*_1-7) will do a favor for you ✨.
 
+> Last step, press <kbd>Esc</kbd> then <kbd>:</kbd>, <kbd>w</kbd>, <kbd>q</kbd> and <kbd>Enter</kbd>.
+
 Everything all done now, enjoy your lunch! ![turtle](http://i.imgur.com/879dfXS.gif)
 
 ## 🔧 Configuration
