@@ -29,7 +29,7 @@ You will enter a terminal with empty wording, is time to get your hands dirty wi
 Then input:
 
 ```shell
-20 12 * * 1-7  ~/Desktop/what-to-eat/show.sh
+20 12 * * 1-7 sh ~/Desktop/what-to-eat/show.sh
 ```
 
 > This script will be automatically executed **at 12:20 on every day-of-week from Monday through Sunday**.
