@@ -1,5 +1,6 @@
 # 🍴 what-to-eat
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
+[![CC 4.0][license-image]][license-url]
 > A useful tool that helps you deciding what to eat for lunch.
 
 <p align="center">
